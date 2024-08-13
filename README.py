@@ -16,8 +16,11 @@
 # Esta seção deve listar todas as principais estruturas/bibliotecas usadas para inicializar seu projeto, bem como a sequência de instalação. Deixe quaisquer complementos/plugins para a seção de agradecimentos. Aqui estão alguns exemplos.
 # 
 # * [![Texlive](https://img.shields.io/badge/Texlive-3776AB?style=flat-square&logo=latex&logoColor=white)](https://tug.org/texlive/)
+# 
 # * [![JabRef](https://img.shields.io/badge/JabRef-44A833?style=flat-square&logo=latex&logoColor=white)](https://www.jabref.org/)
+# 
 # * [![Texstudio](https://img.shields.io/badge/Texstudio-008080?style=flat-square&logo=latex&logoColor=white)](https://www.texstudio.org/)
+# 
 # * [![MathPix](https://img.shields.io/badge/MathPix-008080?style=flat-square&logo=MathPix&logoColor=white)](https://mathpix.com/)
 # 
 # <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
@@ -27,11 +30,12 @@
 # 
 # `JabRef`
 # 
-# O JabRef é um gerenciador de referências bibliográficas de código aberto desenvolvido para auxiliar pesquisadores, estudantes e autores na organização e gestão de suas bibliografias. Especialmente útil para trabalhos acadêmicos e científicos, o JabRef permite importar, organizar e formatar referências de maneira eficiente. Ele suporta uma variedade de formatos de arquivos bibliográficos, como BibTeX e EndNote, e oferece recursos como pesquisa avançada, autocompletar de campos, integração com bancos de dados online, bem como a capacidade de vincular arquivos PDF às entradas de referência. Com sua interface amigável e recursos poderosos, o JabRef é uma escolha popular para quem precisa manter sua bibliografia organizada e criar citações precisas em seus documentos acadêmicos.
-
-# ## 1. Instalar o `JabRef` no `Linux Ubuntu` [1]
+# O `JabRef` é um gerenciador de referências bibliográficas de código aberto desenvolvido para auxiliar pesquisadores, estudantes e autores na organização e gestão de suas bibliografias. Especialmente útil para trabalhos acadêmicos e científicos, o `JabRef` permite importar, organizar e formatar referências de maneira eficiente. Ele suporta uma variedade de formatos de arquivos bibliográficos, como BibTeX e EndNote, e oferece recursos como pesquisa avançada, autocompletar de campos, integração com bancos de dados online, bem como a capacidade de vincular arquivos PDF às entradas de referência. Com sua interface amigável e recursos poderosos, o `JabRef` é uma escolha popular para quem precisa manter sua bibliografia organizada e criar citações precisas em seus documentos acadêmicos.
 # 
-# Para instalar o `JabRef` no `Linux Ubuntu`, você pode seguir os seguintes passos:
+
+# ## 1. Configurar/Instalar/Usar o `JabRef` no `Linux Ubuntu` [1]
+# 
+# Para configurar/instalar/usar o `JabRef` no `Linux Ubuntu`, você pode seguir os seguintes passos:
 # 
 # 1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
 # 
@@ -57,11 +61,11 @@
 
 # 3. **Instale o JabRef:** Você pode instalar o TeX Studio diretamente a partir dos repositórios oficiais do Ubuntu usando o comando apt. Execute o seguinte comando para instalar: `sudo snap install jabref`
 
-# ## Código completo para configurar/instalar
+# ## Código completo para configurar/instalar/usar o `JabRef` no `Linux Ubuntu`
 # 
-# Para instalar o JabRef no Linux Ubuntu sem precisar digitar linha por linha, você pode seguir estas etapas:
+# Para configurar/instalar/usar o `JabRef` no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
 # 
-# 1. Abra o terminal. Você pode fazer isso pressionando: `Ctrl + Alt + T`
+# 1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
 # 
 # 2. Digite o seguinte comando e pressione `Enter`:
 # 
@@ -74,7 +78,7 @@
 #     sudo apt clean
 #     sudo apt list --upgradable
 #     sudo apt full-upgrade -y
-#     sudo snap install jabref -y
+#     sudo snap install jabref
 #     ```
 
 # ## Referências
